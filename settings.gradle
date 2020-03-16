@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='WeeK_11_Map_With_Custom_Text_Android'
